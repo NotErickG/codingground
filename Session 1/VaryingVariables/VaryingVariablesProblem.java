@@ -31,7 +31,7 @@ Zetor
 
 */
 
-public class HelloWorld {
+public class VaryingVariablesProblem {
     public static void main(String[] args) {
         
         int numberOfChickens = 3;

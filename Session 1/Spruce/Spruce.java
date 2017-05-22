@@ -14,7 +14,7 @@ Create a program that prints the following:
 
 */
 
-public class HelloWorld {
+public class Spruce {
     public static void main(String[] args) {
         
 
