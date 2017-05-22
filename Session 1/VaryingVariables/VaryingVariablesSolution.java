@@ -36,7 +36,7 @@ public class VaryingVariablesSolution {
         
         int numberOfChickens = 9000;
         double baconInKG = 0.1;
-        String tractorType = "Zetor"        
+        String tractorType = "Zetor";        
 
 
         System.out.println("Chickens:");

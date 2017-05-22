@@ -36,7 +36,7 @@ public class VaryingVariablesProblem {
         
         int numberOfChickens = 3;
         double baconInKG = 5.5;
-        String tractorType = "There is none!"        
+        String tractorType = "There is none!";        
 
 
         System.out.println("Chickens:");
