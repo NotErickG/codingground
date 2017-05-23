@@ -1,16 +1,17 @@
+package session3.intermediateMath0;
+
 public class Addition {
-    public static void main(String[] args) {
-        
-    	// the program doesn't specify double or int. I will use double to be more thorough
+	public static void main(String[] args) {
 
-    	double addends1 = 5;
-    	double addends2 = 4;
+		// the program doesn't specify double or int. I will use double to be
+		// more thorough
 
-    	double sum = addends1 + addends2;
+		double addends1 = 5;
+		double addends2 = 4;
 
-    	System.out.println(sum);
+		double sum = addends1 + addends2;
 
+		System.out.println(sum);
 
-
-    }
+	}
 }
