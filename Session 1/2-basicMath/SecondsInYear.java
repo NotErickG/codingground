@@ -1,9 +1,3 @@
-/*
-This program can be used to calculate the number of seconds in a year
-
-
-*/
-
 public class SecondsInYear {
     public static void main(String[] args) {
         

@@ -1,2 +1,2 @@
-# codingground
-Main Repository for Coding Ground
+# Java Training Exercises
+The following are java exercises solutions
